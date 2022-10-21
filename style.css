@@ -1,0 +1,48 @@
+li {
+    font-size: 20px;
+}
+.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(32, 153, 85);
+  }
+  
+ .menu li {
+    float: center;
+    
+  }
+  
+ .menu li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+ .menu li a:hover {
+    background-color: rgb(39, 184, 51);
+  }
+  h1,h2 {
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+  }
+  p {
+    max-width: 100%;
+    font-size: 20px;
+  }
+  body {
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px;
+  }
+ img {
+    margin: auto;
+  display: block;
+ }
+iframe {
+    margin:auto;
+    display:block;
+}
